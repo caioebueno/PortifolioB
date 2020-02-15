@@ -1,0 +1,25 @@
+#aboutContainer{
+     margin-top: 30px;
+}
+#aboutImg{
+     
+     margin-bottom: 15px;
+
+}
+body{
+     
+}
+#cardBtn{
+     border: 0;
+}
+.cardMargin{
+     margin-top: 25px;
+}
+#headerContainer{
+     margin-top: 30px;
+}
+@media only screen and (min-width: 1200px){
+     #aboutImg{
+          width: 300px;
+     }
+}
