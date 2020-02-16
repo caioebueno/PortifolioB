@@ -1,2 +1,3 @@
 # PortifolioB
  
+On this project I managed to crate a responsive portifolio that looks good in every screen, cellphone or computer. On the index page there is a card with a picture that grows with the screen size and its collapeses with a smoller screen, there is also a paragraph and a button that redirects to the portifolio page. On the portifolio page we can see a card with all the projects that uses bootstrap grid to positionate, the card collapses with a smoller screen, leaving just um project per row. When clicking in the "See project" button, it redirects to a new page with a slider and some info about each project. On the contact page we can see some texts input for email, name and massage. When clicked to submit, the page return a alert usinng javascript.
